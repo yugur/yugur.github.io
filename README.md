@@ -1,5 +1,6 @@
-# About
-The Yugur Online dictionary is an open-source project aiming to build a dictionary targeted at the preservation and research of indigenous and endangered languages. The project is currently split into two parts: a web app built with React.js and a RESTful API built in Go.
+# Yugur Online Dictionary
+## About
+The Yugur Online Dictionary is an open-source project aiming to build a dictionary targeted at the preservation and research of indigenous and endangered languages. The project is currently split into two parts: a web app built with React.js and a RESTful API built in Go.
 
 ## Source
 The source code and information such as licensing, installation instructions and changelogs can be found on [GitHub](https://github.com/yugur).
