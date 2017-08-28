@@ -4,7 +4,7 @@ The Yugur Online dictionary is an open-source project aiming to build a dictiona
 ## Source
 The source code and information such as licensing, installation instructions and changelogs can be found on [GitHub](https://github.com/yugur).
 
-We use the [gitstats](http://gitstats.sourceforge.net/) tool to generate fancy looking data about the [Yugur RESTful API](api-stats/index.html) and the [Yugur Web App](app-stats/index.html). These pages are updated periodically.
+Fancy-looking stats for the API are generated periodically [here](api-stats/index.html).
 
 ## Development
 Development is managed through a publicly accessible [Trello board](https://trello.com/b/jMzGDNag/yugur-dictionary-app).
