@@ -8,11 +8,7 @@ The source code and information such as licensing, installation instructions and
 Fancy-looking stats for the API are generated periodically [here](api-stats/index.html).
 
 ## Live Demo
-A live demo of the web app is running at [http://128.199.134.221:3000](http://128.199.134.221:3000). Networking with the API may be down so it is currently also exposed [here](http://128.199.134.221:8080/) and serves simple demo pages for the auth process. Some example calls:
-* [Check that the server is running](http://128.199.134.221:8080/status)
-* [Get the entry for "dog"](http://128.199.134.221:8080/entry?q=dog)
-* [Get the entire dictionary](http://128.199.134.221:8080/fetch)
-* [Search by letter](http://128.199.134.221:8080/search-letter?q=c)
+The live demo is now offline.
 
 ## Development
 Development is managed through a publicly accessible [Trello board](https://trello.com/b/jMzGDNag/yugur-dictionary-app).
