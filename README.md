@@ -10,13 +10,13 @@ Now that the 2017 team has concluded work, **the most important source of docume
 
 ### Source
 
-The source code for the web app, RESTful API, Chinese Segmenter and information such as licensing, installation instructions and changelogs can be found on [GitHub](https://github.com/yugur). 
+The source code for the Web App, RESTful API, Chinese Segmenter and information such as licensing, installation instructions and changelogs can be found on [GitHub](https://github.com/yugur). 
 
 ### Tracking & other
 
 Project development was tracked through a publicly accessible [Trello board](https://trello.com/b/jMzGDNag/yugur-dictionary-app). Note that while the Trello board is still available for reference of who did what, the [Wiki](https://www.notion.so/yugur/Yugur-Dictionary-dc2b5c1dacc0431886fedb1b6803836a) contains a more succinct view of the project and its user stories. 
 
-At this stage most documents of importance are included in the [Wiki](https://www.notion.so/yugur/Yugur-Dictionary-dc2b5c1dacc0431886fedb1b6803836a) however other artefacts such as meeting minutes are still located [here](https://drive.google.com/open?id=0ByT4L7eSmJWtZXIwQV8xX2U2VFU).
+The Google Drive does not contain any new documents since the last audit, however it is included for completeness [here](https://drive.google.com/open?id=0ByT4L7eSmJWtZXIwQV8xX2U2VFU).
 
 ## Demonstration
 
