@@ -17,4 +17,5 @@ Project development was managed through a publicly accessible [Trello board](htt
 Beyond that documents such as meeting minutes and some legacy artefacts like early UI designs can be found [here](https://drive.google.com/open?id=0ByT4L7eSmJWtZXIwQV8xX2U2VFU).
 
 ## Demo
-A demo of the dictionary is currently live at http://128.199.179.198:3000/
+
+A demo of the dictionary is currently live at [128.199.179.198:3000](http://128.199.179.198:3000/)
