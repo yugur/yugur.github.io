@@ -16,7 +16,7 @@ The source code for the Web App, RESTful API, Chinese Segmenter and information 
 
 ### Tracking
 
-Project development was tracked through a publicly accessible [Trello board](https://trello.com/b/jMzGDNag/yugur-dictionary-app). Note that while the Trello board is still available for reference of who did what, the [Wiki](https://www.notion.so/yugur/Yugur-Dictionary-dc2b5c1dacc0431886fedb1b6803836a) contains a more succinct view of the project and its user stories. 
+Who was responsible for what was tracked through a publicly accessible [Trello board](https://trello.com/b/jMzGDNag/yugur-dictionary-app). 
 
 ## Demonstration
 
