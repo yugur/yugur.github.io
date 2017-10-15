@@ -6,7 +6,7 @@ The Yugur Online Dictionary is an open-source project aiming to build a dictiona
 
 ### Documentation
 
-Now that the current team have concluded work, the most important source of documentation is the [Handover Wiki](https://www.notion.so/yugur/Yugur-Dictionary-dc2b5c1dacc0431886fedb1b6803836a). If you are interested in continuing the project then this is where you should begin.
+Now that the 2017 team has concluded work, the most important source of documentation is the [Handover Wiki](https://www.notion.so/yugur/Yugur-Dictionary-dc2b5c1dacc0431886fedb1b6803836a). If you are interested in continuing the project then this is where you should begin.
 
 ### Source
 The source code for the web app, RESTful API, Chinese Segmenter and information such as licensing, installation instructions and changelogs can be found on [GitHub](https://github.com/yugur). 
