@@ -8,15 +8,15 @@ The Yugur Online Dictionary is an open-source project aiming to build a dictiona
 
 Now that the 2017 team has concluded work, **the most important source of documentation is the [Handover Wiki](https://www.notion.so/yugur/Yugur-Dictionary-dc2b5c1dacc0431886fedb1b6803836a)**. For anyone interested in assessing or continuing the project, it's recommended that you start here.
 
+The slides from our presentation as well as older artefacts (meeting minutes, wireframes, etc.) are located [here](https://drive.google.com/open?id=0ByT4L7eSmJWtZXIwQV8xX2U2VFU).
+
 ### Source
 
 The source code for the Web App, RESTful API, Chinese Segmenter and information such as licensing, installation instructions and changelogs can be found on [GitHub](https://github.com/yugur). 
 
-### Tracking & other
+### Tracking
 
 Project development was tracked through a publicly accessible [Trello board](https://trello.com/b/jMzGDNag/yugur-dictionary-app). Note that while the Trello board is still available for reference of who did what, the [Wiki](https://www.notion.so/yugur/Yugur-Dictionary-dc2b5c1dacc0431886fedb1b6803836a) contains a more succinct view of the project and its user stories. 
-
-The Google Drive does not contain any new documents since the last audit, however it is included for completeness [here](https://drive.google.com/open?id=0ByT4L7eSmJWtZXIwQV8xX2U2VFU).
 
 ## Demonstration
 
